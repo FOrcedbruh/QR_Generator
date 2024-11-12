@@ -1,0 +1,5 @@
+C:\Users\Илья\source\repos\QR_generator\QR_generator\obj\Debug\QR_generator.csproj.AssemblyReference.cache
+C:\Users\Илья\source\repos\QR_generator\QR_generator\obj\Debug\MainWindow.g.cs
+C:\Users\Илья\source\repos\QR_generator\QR_generator\obj\Debug\App.g.cs
+C:\Users\Илья\source\repos\QR_generator\QR_generator\obj\Debug\QR_generator_MarkupCompile.cache
+C:\Users\Илья\source\repos\QR_generator\QR_generator\obj\Debug\QR_generator_MarkupCompile.lref

@@ -1,0 +1,14 @@
+﻿<Window x:Class="QR_generator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QR_generator"
+        mc:Ignorable="d"
+        Title="QR-generator" Height="450" Width="800">
+    <Grid>
+        <TextBox Name="InputTextBox" HorizontalAlignment="Center" VerticalAlignment="Top" Width="300" Margin="0,30,0,0"/>
+        <Button Content="Generate QR Code" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,80,0,0" Click="GenerateButton_Click"/>
+        <Image Name="QrCodeImage" HorizontalAlignment="Center" VerticalAlignment="Top" Width="200" Height="200" Margin="0,150,0,0"/>
+    </Grid>
+</Window>
